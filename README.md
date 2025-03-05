@@ -7,7 +7,7 @@ http://127.0.0.1:8000/restaurant/menu/2/
 http://127.0.0.1:8000/restaurant/api-token-auth/ (POST METHOD)
 http://127.0.0.1:8000/restaurant/booking/ 
 
-http://127.0.0.1:8000/auth/users/   
+http://127.0.0.1:8000/auth/users/     
 http://127.0.0.1:8000/auth/users/me/
 http://127.0.0.1:8000/auth/users/confirm/
 http://127.0.0.1:8000/auth/users/resend_activation/
